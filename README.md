@@ -1,4 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
+
+
+<p align="center">
+<img  align="center" width=100% height=300 src="https://github.com/Sbsharma0897/Sbsharma0897/blob/bb0c3dfd24a0be2e4a93220367a0e2eb3e685230/Screenshot%202022-08-17%20at%201.05.15%20PM.png">
+</p>
 
 <h1 align="center">Hi 👋, I'm Sandeep Sharma</h1>
 
