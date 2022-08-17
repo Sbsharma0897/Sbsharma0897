@@ -1,7 +1,7 @@
 
 
 
-![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif
+![MasterHead]([https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif](https://raw.githubusercontent.com/UsamaSarwar/UsamaSarwar/main/images/coding.gif)
 )
 ##<h1 align="center">Hi 👋, I'm Nitin Aggarwal</h1>
 Here are some ideas to get you started:
