@@ -54,11 +54,6 @@
 </p>
 <br>
 <br><h2 align="center"> GitHub Contributions</h2>
-## Snake eating my contribution graph
-![snake gif](https://github.com/nitinaggarwal2512/nitinaggarwal2512/blob/output/github-contribution-grid-snake.gif)
 
-
-
-
-
+<p align="center"> <img src="https://github.com/Sbsharma0897/Sbsharma0897/blob/6f595786e928e68c2b2c3921021093e9a47a7b78/github-user-contribution.svg" alt="sandeep contributions" /> </p>
 
