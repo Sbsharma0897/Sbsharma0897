@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Sandeep Sharma</h1>
 <h3 align="center">Java Back-End Developer from Bangalore, India.</h3>
 
