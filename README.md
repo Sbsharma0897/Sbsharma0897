@@ -1,8 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **Sbsharma0897/Sbsharma0897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h1 align="center">Hi 👋, I'm Nitin Aggarwal</h1>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
