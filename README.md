@@ -7,7 +7,7 @@
 <h3 align="center">Java Back-End Developer from Bangalore, India.</h3>
 
 
-<img align="right" alt="Coding" height="300" width="300" src="https://github.com/Sbsharma0897/Sbsharma0897/blob/a8ec7dd07d5ae6d25b77e025156886ae2ed0a877/1608661833182_prev_ui.png">
+<img align="right" alt="Coding" height="300" width="300" border-radius=50% src="https://github.com/Sbsharma0897/Sbsharma0897/blob/a8ec7dd07d5ae6d25b77e025156886ae2ed0a877/1608661833182_prev_ui.png">
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sbsharma0897&label=Profile%20views&color=0e75b6&style=flat" alt="sbsharma0897" /> 
 </p>
@@ -38,7 +38,7 @@
 
 <br>
 
-<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbsharma0897&theme=dark&layout=compact&langs_count=20&hide_title=true"/></p>
+<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbsharma0897&layout=compact&theme=radical&langs_count=20&hide_title=true"/></p>
 
 
 <p align="center">
@@ -48,11 +48,16 @@
 <br><h2 align="center"> GitHub Statistics 📈 </h2>
 
 <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbsharma0897&theme=dark&hide_title=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbsharma0897&theme=radical&show_icons=true&hide_title=true&include_all_commits=true"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbsharma0897&theme=dark&" alt="sbsharma0897" />
 
 </p>
 <br>
+<br><h2 align="center"> GitHub Contributions</h2>
+## Snake eating my contribution graph
+![snake gif](https://github.com/nitinaggarwal2512/nitinaggarwal2512/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
 
