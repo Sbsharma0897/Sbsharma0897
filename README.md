@@ -12,8 +12,10 @@
 <h3 align="center">Java Back-End Developer from Bangalore, India.</h3>
 
 
-<img align="right" alt="Coding" height="300" width="300" border-radius=50% src="https://github.com/Sbsharma0897/Sbsharma0897/blob/a8ec7dd07d5ae6d25b77e025156886ae2ed0a877/1608661833182_prev_ui.png">
-<p align="left"> 
+<!-- <img align="right" alt="Coding" height="300" width="300" border-radius=50% src="https://github.com/Sbsharma0897/Sbsharma0897/blob/a8ec7dd07d5ae6d25b77e025156886ae2ed0a877/1608661833182_prev_ui.png">
+<p align="left">  -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
+
 <img src="https://komarev.com/ghpvc/?username=sbsharma0897&label=Profile%20views&color=0e75b6&style=flat" alt="sbsharma0897" /> 
 </p>
 
