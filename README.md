@@ -19,9 +19,11 @@
 <img src="https://komarev.com/ghpvc/?username=sbsharma0897&label=Profile%20views&color=0e75b6&style=flat" alt="sbsharma0897" /> 
 </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and and its **Frameworks**.
 
-- 💬 Ask me about **Java, JavaScript, MYSQL,Spring Boot**
+- 💬 Ask me about any technologies related to **Back-end Development** and I would be happy to help you.
+
+- 👨‍💻 Checkout Portfolio [(https://sandeepsharmaportfolio.netlify.app/)](https://sandeepsharmaportfolio.netlify.app/)
 
 - 📫 How to reach me **Sbsharma0897@gmail.com**
 
