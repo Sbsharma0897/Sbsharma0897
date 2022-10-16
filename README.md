@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">Java Back-End Developer from Bangalore, India.</h3>
+<h3 align="center">An enthusiastic Java Backend Developer with hands-on experience with Core Java, JPA Hibernate, and Spring Boot. Developing skills for writing clean, optimized, solution-oriented code.</h3>
 
 
 <!-- <img align="right" alt="Coding" height="300" width="300" border-radius=50% src="https://github.com/Sbsharma0897/Sbsharma0897/blob/a8ec7dd07d5ae6d25b77e025156886ae2ed0a877/1608661833182_prev_ui.png">
